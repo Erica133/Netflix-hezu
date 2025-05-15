@@ -1,4 +1,4 @@
-
+# 奈飞Netflix 合租平台哪个最好用？
 
 前一阵权利的游戏特别火，所以netflix奈飞流媒体也跟着火起来了，我平时喜欢看一些美剧大片，所以尝试过自己开通、找别人开通或者拼车，现在把自己的经验分享给大家，帮大家避开一些观看奈飞的坑。
 ![image](https://github.com/user-attachments/assets/e7b507bd-d2b6-49f1-bfda-0fe193010621)
