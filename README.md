@@ -1,7 +1,7 @@
 # 奈飞Netflix 合租平台哪个最好用？
 
 前一阵权利的游戏特别火，所以netflix奈飞流媒体也跟着火起来了，我平时喜欢看一些美剧大片，所以尝试过自己开通、找别人开通或者拼车，现在把自己的经验分享给大家，帮大家避开一些观看奈飞的坑。
-![image](https://github.com/user-attachments/assets/e7b507bd-d2b6-49f1-bfda-0fe193010621)
+![奈飞平台](/image/667dd1a669c8f0516cb38301379c5ea.png)
 
 
 ## 一、什么是奈飞合租？
@@ -15,7 +15,7 @@
 找到一个靠谱好用的的平台是选择奈飞合租拼的最重要的一点，目前国内的合租平台五花八门非常多，有些甚至连备案号都没有，随时可能跑路，有的有备案号也是用个体户注册的，说明规模小，风险高。下面是我之前都使用过的平台，总结后分享给大家。
 
 ### 各平台奈飞价格对比
-![image](https://github.com/user-attachments/assets/ee0cd68a-44c2-4098-b596-a963068ef7e5)
+![奈飞各平台价格对比.png](/image/价格对比.png)
 
 
 1. **[familypro.io](https://familypro.io?invite=IW062920)**
@@ -23,16 +23,16 @@
 [familypro.io](https://familypro.io?invite=IW062920)
 目前提供多想服务，奈飞、chatGPT、多邻国、Spotify、MAX等，算是用过的里面最实惠的一个了，他家用着不错，很稳定，客服回复很及时，有相关的问题都会给解答，据说后面还会上其他产品，算是最近口碑还不错的。
 
-![image](https://github.com/user-attachments/assets/810cb75c-3338-4536-8b9d-9efdd73d9ae4)
+![familypro](/image/familypro.png)
 
 2. **银河录像局**
-![image](https://github.com/user-attachments/assets/15916cff-d60e-4bb8-a781-ec7a76d58ce4)
+![银河录像局](/image/银河录像局.png)
 
 邀请链接：https://nf.video/TMhgu 使用邀请链接可以享受95折
 
-3. **环球巴士**
+4. **环球巴士**
 
-![image](https://github.com/user-attachments/assets/19e1e39a-16ec-45a4-8fab-6bc73d97ef90)
+![环球巴士](/image/环球巴士.png)
 
 环球巴士和银河录像局成立时间差不多，该有的都有，客服回复也及时，网站也比较完善，也是比较靠谱的。
 
@@ -41,14 +41,12 @@
 4. **奈飞小铺**
 
 最近好像被人举报了，不太安全。
-![image](https://github.com/user-attachments/assets/9cb8c910-cdf1-4c12-8e1e-8993c61ff2be)
-
+![奈飞小铺](/image/奈飞小铺.png)
 
 5. **OK123小铺**
 
 网站加载有点慢，也有客服，但会不会翻车还不太确定。
-![image](https://github.com/user-attachments/assets/a910ce79-d7dd-4432-9158-e8ebe7f29a15)
-
+![OK23](/image/OK23.png)
 
 6. **奈飞小镇**
 
@@ -58,8 +56,7 @@
 7. **蜜糖商店**
 
 蜜糖商店成立也比较早了，但是它们家价格偏贵，是所有平台里面最贵的一家。
-![image](https://github.com/user-attachments/assets/62fe5c6f-a7b0-48e8-8f75-4e600f7c19f5)
-
+![蜜糖商店](/image/蜜糖.png)
 
 8. **奈飞快车**
 
@@ -73,8 +70,7 @@
 
 Netflix播放影片时分辨率低，无法观看4K高清画质？这是因为Netflix 的画质根据设备、网速自动调整，无法设置成某个固定的清晰度的，如果画质低可以缓冲一下或者需要换一个更优质的网络。
 
-![image](https://github.com/user-attachments/assets/723f8a7a-abdd-434d-a045-7483f3499993)
-
+![奈飞画质](/image/画质.png)
 
 ### 2、为什么找不到奈飞部分资源?
 
